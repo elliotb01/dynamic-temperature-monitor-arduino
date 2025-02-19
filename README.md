@@ -20,6 +20,19 @@ sampling rate wastes power when the temperature is stable.
 Dynamic sampling optimizes energy use by adjusting the frequency of
 readings.
 
+This system will consist of three modes:
+
+* Active Mode: The system enters this mode when rapid temperature
+fluctuations are detected. In this state, the sampling frequency is
+high, allowing for quick responses to environmental changes.
+
+* Idle Mode: When temperature fluctuations are minor, the system
+reduces its sampling frequency to a moderate level.
+
+* Power Down Mode: If the temperature remains stable over an
+extended period in Idle, the system further reduces its sampling
+frequency to the lowest level
+
 **My Goal:** *Design an adaptive system that intelligently adjusts sampling
 rate and reduces energy consumption without losing accuracy*
 
