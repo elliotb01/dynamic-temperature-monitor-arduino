@@ -1,7 +1,13 @@
-<h1>Year 1 Semester 2 Coursework README</h1> Student ID: F424221
+<h1>Year 1 Semester 2 Coursework README</h1> 
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*fxa2PVq7rnWwv0RA" alt="arduinoreadmeimage" width="500" height="200">
+
+
+Student ID: F424221
+
+Full Name: Elliot Boberg
+
 </p>
 
 <h2>Dynamically Optimised Temperature Monitoring System using Arduino</h2>
