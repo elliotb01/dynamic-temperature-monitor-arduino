@@ -42,7 +42,19 @@ frequency to the lowest level
 **My Goal:** *Design an adaptive system that intelligently adjusts sampling
 rate and reduces energy consumption without losing accuracy*
 
+<h3> **Explanation of my approach to the project** </h3>
+
+I find when coding that I like to take an approach that revolves around block-based coding. I find this to be the best way for me to code as it keeps my workspace clear and concise while keeping all function that it needs. I have also found this to be a good
+approach as it means that I amke use of local variables, which makes good use of memory within my project.
+
 </p>
 
-* This document will consist of sections ... documentation ...
+This document will consist of sections documenting each task that I completed within my assignment
 
+This will include both what I found difficult and what I found trouble-free.
+
+<h1> SECTION 1 </h1>
+
+<h2> Task 1 </h2>
+
+<p>  </p>
