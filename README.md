@@ -8,6 +8,13 @@ Student ID: F424221
 
 Full Name: Elliot Boberg
 
+File List:
+
+* Task3.ino
+* Task4.ino
+* elliot_boberg_arduino_setup.JPG
+* threeminstemperature_F424221.csv
+
 </p>
 
 <h2>Dynamically Optimised Temperature Monitoring System using Arduino</h2>
