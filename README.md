@@ -117,4 +117,4 @@ I found Task 1.4 the most tricky as it was about merge conflicts which I had not
 
 <h2> Task 4 </h2>
 
-<p> </p>
+<p> I found Task 4 to be very interesting as I had to code over and change a lot of what I had already done to make it such that the sample rate was adaptive to the temperature. This was an interesting task as it made me think a lot about the best way to implement the sample rate and how I would keep it from sabotaging itself. Overall I found this task to be less time consuming than Task 3 but more complex as it called on lots of knowledge of Computer Science and coding skills that I have developed. </p>
